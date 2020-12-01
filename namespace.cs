@@ -10,6 +10,7 @@ namespace Calc{
     }
 }
 
+//Crio um escopo fechado;
 //namespace se usa para controlar o escopo do codigo;
 //Dentro do namespace posso classificar os elementos;
 
